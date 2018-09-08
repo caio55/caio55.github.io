@@ -10,4 +10,4 @@ Hi,
 
 I'm Caio, 25 years, from Rio de Janeiro. An engineer looking for some experiences in this crazy and lovely world.
 
-You can find some of my experiences [Instagram]({{ https://www.instagram.com/caioflemos/}}) here.
+You can find some of my experiences on my [Instagram]({{ <meta http-equiv="refresh" content="5; url=https://www.instagram.com/caioflemos/"> }})
