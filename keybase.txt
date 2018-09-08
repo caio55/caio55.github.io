@@ -27,7 +27,7 @@ To do so, I am signing this object:
     },
     "service": {
       "entropy": "pMAgGSrw2h+vivgutTQkvzPy",
-      "hostname": "tiisetso.com",
+      "hostname": "caio55.github.io",
       "protocol": "http:"
     },
     "type": "web_service_binding",
