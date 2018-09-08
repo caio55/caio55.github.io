@@ -1,10 +1,10 @@
 # Site settings
-title:       Tiisetso
-email:       tiisetsomurray+hello@gmail.com
-author:      Tiisetso Murray
-description: "A blog to share my experiences and thoughts."
+title:       Caio
+email:       flemos.caio@hotmail.com
+author:      Caio Lemos
+description: "A way to share some experience overseas"
 baseurl:     ""
-url:         "http://tiisetso.com"
+url:         "https://caio55.github.io/"
 date_format: "%b %-d, %Y"
 timezone: Asia/Shanghai
 show_drafts: false
@@ -45,14 +45,14 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username: tiisetso
+github_username: caio55
 bitbucket_username:
 stackoverflow_id:
 twitter_username:
 skype_username:
 steam_nickname:
 google_plus_id:
-linkedin_username:
+linkedin_username: caioflemos
 angellist_username:
 medium_id:
 bitcoin_url:
@@ -60,12 +60,12 @@ paypal_url:
 flattr_button:
 
 # Post sharing icons
-show_sharing_icons: false
+show_sharing_icons: true
 # Change to 'true' to enable individual icons
 share_facebook: false
 share_twitter: false
 share_googleplus: false
-share_linkedin: false
+share_linkedin: true
 share_digg: false
 share_tumblr: false
 share_reddit: false
