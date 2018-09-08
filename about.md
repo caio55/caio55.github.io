@@ -8,8 +8,6 @@ tags: about
 
 Hi,
 
-My name is Tiisetso Murray and this is my blog. 
+I'm Caio, 25 years, from Rio de Janeiro. An engineer looking for some experiences in this crazy and lovely world.
 
-I'm an industrial engineer from South Africa currently studying my masters in engineering at Tsinghua University in Beijing, China until August 2019.
-
-You can find my [CV]({{ site.url }}/assets/pdf/CV - Tiisetso Murray.pdf) here.
+You can find some of my experiences [Instagram]({{ https://www.instagram.com/caioflemos/}}) here.
